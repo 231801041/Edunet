@@ -1,2 +1,24 @@
 # Week-1-Edunet
- The Crop_recommendation.csv dataset is a structured resource for building machine learning models in agriculture. It includes soil properties (pH, nitrogen, phosphorus, potassium) and weather data (temperature, rainfall) as features, with target labels for crops like rice and maize. It supports precision farming by aligning crops with conditions.
+ # Crop Recommendation System
+
+## Overview
+This project focuses on building a machine learning model to recommend suitable crops based on soil properties and weather conditions. Using data on factors like nitrogen, phosphorus, potassium, pH, temperature, and rainfall, the model predicts crops such as rice, maize, and others.
+
+## Features
+- **Input Data**: Soil (N, P, K, pH) and weather (temperature, rainfall) parameters.
+- **Output**: Predicted crop recommendation.
+- **Goal**: Aid in precision agriculture by providing data-driven crop suggestions.
+
+## Tools & Libraries
+- Python
+- Pandas, NumPy
+- Scikit-learn
+- Matplotlib, Seaborn (for visualization)
+
+## Usage
+Run the provided Jupyter Notebook (`crop.ipynb`) to preprocess data, train models, and evaluate results.
+
+---
+
+*Optimizing agriculture through data science!*
+
