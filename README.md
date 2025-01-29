@@ -22,3 +22,7 @@ Run the provided Jupyter Notebook (`crop.ipynb`) to preprocess data, train model
 
 *Optimizing agriculture through data science!*
 
+
+# Week-2-edunet
+The focus was on understanding the dataset through visualization and preparing it for machine learning by encoding categorical variables.
+
